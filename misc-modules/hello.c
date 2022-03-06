@@ -9,7 +9,7 @@ static int hello_init(void)
 {
 	printk(KERN_ALERT "Hello, world\n");
 	printk(KERN_ALERT "tanmay-mk\n");
-	return 0; 
+	return 0;  
 }
 
 static void hello_exit(void)
